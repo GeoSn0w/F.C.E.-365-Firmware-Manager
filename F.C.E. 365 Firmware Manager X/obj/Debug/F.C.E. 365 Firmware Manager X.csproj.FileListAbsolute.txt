@@ -1,0 +1,31 @@
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\bin\Debug\F.C.E. 365 Firmware Manager X.exe.config
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\bin\Debug\F.C.E. 365 Firmware Manager X.exe
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\bin\Debug\F.C.E. 365 Firmware Manager X.pdb
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E. 365 Firmware Manager X.csprojResolveAssemblyReference.cache
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.Form1.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.Properties.Resources.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E. 365 Firmware Manager X.csproj.GenerateResource.Cache
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E. 365 Firmware Manager X.exe
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E. 365 Firmware Manager X.pdb
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.Bootloader.resources
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X.exe.config
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X.exe
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X.pdb
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.VarSizeCalc.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.HashCalculator.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.Preloader_Gate_WMI.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.DFU.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.ThemKeys.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.cijmod.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.UDIDchallange.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.IPSWDL.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.rec.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.fcehex.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.partialdl.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.IOApplicationAccellerator.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.strings.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.framework12.resources
+C:\Users\F.C.E. 365\Documents\Visual Studio 2012\Projects\F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X\obj\Debug\F.C.E._365_Firmware_Manager_X.fceCompiler.resources
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X (v30)\F.C.E. 365 Firmware Manager X.exe.config
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X (v30)\F.C.E. 365 Firmware Manager X.exe
+C:\Users\F.C.E. 365\Desktop\F.C.E. 365 Firmware Manager X (v30)\F.C.E. 365 Firmware Manager X.pdb
