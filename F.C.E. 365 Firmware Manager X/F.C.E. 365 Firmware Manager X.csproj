@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>F.C.E._365_Firmware_Manager_X</RootNamespace>
+    <AssemblyName>F.C.E. 365 Firmware Manager X</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\Desktop\F.C.E. 365 Firmware Manager X %28v30%29\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Drawing%2818%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>F.C.E._365_Firmware_Manager_X.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Be.Windows.Forms.HexBox">
+      <HintPath>..\..\..\..\..\Desktop\F.C.E. 365 Firmware Manager X (v32)\Be.Windows.Forms.HexBox.dll</HintPath>
+    </Reference>
+    <Reference Include="libhekla">
+      <HintPath>..\..\..\..\..\Desktop\F.C.E. 365 Firmware Manager X (v32)\libhekla.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ATM.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Bootloader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bootloader.Designer.cs">
+      <DependentUpon>Bootloader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cijmod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cijmod.Designer.cs">
+      <DependentUpon>cijmod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DFU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFU.Designer.cs">
+      <DependentUpon>DFU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fcehex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fcehex.Designer.cs">
+      <DependentUpon>fcehex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="framework12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="framework12.Designer.cs">
+      <DependentUpon>framework12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HashCalculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HashCalculator.Designer.cs">
+      <DependentUpon>HashCalculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IOApplicationAccellerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IOApplicationAccellerator.Designer.cs">
+      <DependentUpon>IOApplicationAccellerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPSWDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IPSWDL.Designer.cs">
+      <DependentUpon>IPSWDL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="partialdl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="partialdl.Designer.cs">
+      <DependentUpon>partialdl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rec.Designer.cs">
+      <DependentUpon>rec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="strings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>strings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ThemKeys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemKeys.Designer.cs">
+      <DependentUpon>ThemKeys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UDIDchallange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UDIDchallange.Designer.cs">
+      <DependentUpon>UDIDchallange.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bootloader.resx">
+      <DependentUpon>Bootloader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cijmod.resx">
+      <DependentUpon>cijmod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFU.resx">
+      <DependentUpon>DFU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fcehex.resx">
+      <DependentUpon>fcehex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="framework12.resx">
+      <DependentUpon>framework12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HashCalculator.resx">
+      <DependentUpon>HashCalculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IOApplicationAccellerator.resx">
+      <DependentUpon>IOApplicationAccellerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPSWDL.resx">
+      <DependentUpon>IPSWDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partialdl.resx">
+      <DependentUpon>partialdl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rec.resx">
+      <DependentUpon>rec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="strings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>strings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemKeys.resx">
+      <DependentUpon>ThemKeys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UDIDchallange.resx">
+      <DependentUpon>UDIDchallange.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\globe_ws.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lilo Dark 7.ipa" />
+    <None Include="Resources\YouTube-social-circle_red_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FB-f-Logo__blue_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Twitter_logo_blue_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Internet - Real.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Drawing%2818%29.ico" />
+    <None Include="Resources\Drawing %2818%29.png" />
+    <None Include="Resources\Drawing %2826%291.png" />
+    <None Include="Resources\Drawing %283%29.png" />
+    <None Include="Resources\Lock Closed.png" />
+    <None Include="Resources\verified.png" />
+    <None Include="Resources\Capture.PNG" />
+    <None Include="Resources\close-48.png" />
+    <None Include="Resources\free-09-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
