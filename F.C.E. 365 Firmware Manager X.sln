@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F.C.E. 365 Firmware Manager X", "F.C.E. 365 Firmware Manager X\F.C.E. 365 Firmware Manager X.csproj", "{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0723D1-98E4-4E99-B9C6-E5F15C49B777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
