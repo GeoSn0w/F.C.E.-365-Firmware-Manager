@@ -8,6 +8,7 @@ Also, has a built-in HEX Viewer / Editor.
 It was built in C#, 'cuz why the devil not, ay? So it should be easily understandable even for a beginner like me.
 
 <B> This project has been dropped until a public iBOOT exploit exists </B>
+
 GPL License.
 
 The iPhone Wiki Page: https://www.theiphonewiki.com/wiki/Firmware_Manager
