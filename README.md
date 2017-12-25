@@ -7,10 +7,11 @@ Also, has a built-in HEX Viewer / Editor.
 
 It was built in C#, 'cuz why the devil not, ay? So it should be easily understandable even for a beginner like me.
 
+<B> THIS SOFTWARE DOES NOT BYPASS ICLOUD! </B>
 <B> This project has been dropped until a public iBOOT exploit exists </B>
 
-GPL License.
+I removed it from "TheiPhoneWiki" to avoid misleading people into thinking this can unlock devices, etc.
 
-The iPhone Wiki Page: https://www.theiphonewiki.com/wiki/Firmware_Manager
+GPL License.
 Twitter: https://twitter.com/FCE365
 
